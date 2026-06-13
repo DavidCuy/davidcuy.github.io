@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Cuy — Blog</title>
+    <link>https://davidcuy.github.io</link>
+    <atom:link href="https://davidcuy.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Cloud Architect &amp; Software Engineer. Essays on real architecture.</description>
+    <language>es</language>
+    <lastBuildDate>Sat, 13 Jun 2026 04:57:39 GMT</lastBuildDate>
+    <item>
+      <title>Por qué pusimos un CDN frente a nuestro balanceador de carga (y por qué las cookies fueron el verdadero problema)</title>
+      <link>https://davidcuy.github.io/blog/cdn-lambda-edge-desbordamiento-cookies</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/cdn-lambda-edge-desbordamiento-cookies</guid>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>decisions</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>La barra de café de mi esposa, un bloqueo de Meta y una wallet que no tenía planeada</title>
+      <link>https://davidcuy.github.io/blog/barra-de-cafe-mi-esposa-bloqueo-meta-wallet</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/barra-de-cafe-mi-esposa-bloqueo-meta-wallet</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>realsystems</category>
+      <description><![CDATA[Quería un sistema de fidelidad simple para la barra de café de mi esposa. Meta me bloqueó a medio camino. Lo que construí después fue mucho mejor que el plan original — y casi todo el criterio fue mío, no de la IA.]]></description>
+    </item>
+    <item>
+      <title>Cómo uso Mermaid para comunicarme con producto, arquitecturar con devs y documentar todo al mismo tiempo</title>
+      <link>https://davidcuy.github.io/blog/como-uso-mermaid-comunicarme-producto-arquitecturar-devs-documentar</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/como-uso-mermaid-comunicarme-producto-arquitecturar-devs-documentar</guid>
+      <pubDate>Tue, 07 Apr 2026 15:00:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>leadership</category>
+      <description><![CDATA[Mermaid no es solo una herramienta de diagramas. Es la forma en que los diagramas dejan de ser documentación que envejece y se convierten en parte viva del sistema.]]></description>
+    </item>
+    <item>
+      <title>Cuando el negocio no es el tuyo: cómo entender el dominio para rediseñar un sistema de facturación con event-driven</title>
+      <link>https://davidcuy.github.io/blog/cuando-el-negocio-no-es-el-tuyo-facturacion-event-driven</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/cuando-el-negocio-no-es-el-tuyo-facturacion-event-driven</guid>
+      <pubDate>Thu, 02 Apr 2026 08:00:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>serverless</category>
+      <description><![CDATA[Cómo rediseñar un sistema de facturación en un dominio que no era el mío: de 10+ escenarios caóticos a 4 eventos de negocio claros usando AWS EventBridge.]]></description>
+    </item>
+    <item>
+      <title>El algoritmo que se moría en CDMX: cómo pasé de O(n⁷) a una consulta en base de datos</title>
+      <link>https://davidcuy.github.io/blog/el-algoritmo-que-se-moria-en-cdmx</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/el-algoritmo-que-se-moria-en-cdmx</guid>
+      <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>realsystems</category>
+      <description><![CDATA[Cómo un generador de números telefónicos válidos para campañas en México pasó de horas de loops en Python a minutos usando tablas, JOINs y bulk inserts en la base de datos.]]></description>
+    </item>
+    <item>
+      <title>Cómo conecté Slack, Notion, Google Calendar y Sanity con Claude como orquestador para automatizar mi blog</title>
+      <link>https://davidcuy.github.io/blog/como-conecte-slack-notion-google-calendar-sanity-claude-orquestador</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/como-conecte-slack-notion-google-calendar-sanity-claude-orquestador</guid>
+      <pubDate>Wed, 25 Mar 2026 09:00:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>productivity</category>
+      <description><![CDATA[Tenía claro que quería publicar en mi blog con consistencia. Lo que no tenía claro era cómo hacerlo sin que el proceso me consumiera más tiempo del que tenía. Aquí te cuento cómo construí un pipeline de contenido completo usando Claude como el cerebro que conecta todo.]]></description>
+    </item>
+    <item>
+      <title>Cómo rediseñamos un backend completo sin detener la operación</title>
+      <link>https://davidcuy.github.io/blog/como-redisenamos-un-backend-completo-sin-detener-la-operacion</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/como-redisenamos-un-backend-completo-sin-detener-la-operacion</guid>
+      <pubDate>Thu, 19 Mar 2026 18:00:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>realsystems</category>
+      <description><![CDATA[Un sistema en producción con DynamoDB usado como base relacional, una operación que no podía detenerse y un equipo dividido entre mantener lo que existía y construir lo que debía ser. Esta es la historia de cómo lo logramos.]]></description>
+    </item>
+    <item>
+      <title>Vibe coding funciona. Pero primero necesitas saber diseño de software</title>
+      <link>https://davidcuy.github.io/blog/vibe-coding-strategy-pattern</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/vibe-coding-strategy-pattern</guid>
+      <pubDate>Thu, 19 Mar 2026 18:00:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>productivity</category>
+      <description><![CDATA[Tengo un blog. Escribo en Sanity, pero también quiero publicar en Dev.to y Hashnode. En este post explico cómo automaticé eso con una Lambda, el patrón Strategy y algo de vibe coding — y por qué el criterio técnico sigue siendo insustituible.]]></description>
+    </item>
+    <item>
+      <title>Agregar un CDN parece obvio. Hasta que rompe tus deployments</title>
+      <link>https://davidcuy.github.io/blog/agregar-un-cdn-parece-obvio-hasta-que-rompe-tus-deployments</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/agregar-un-cdn-parece-obvio-hasta-que-rompe-tus-deployments</guid>
+      <pubDate>Wed, 18 Mar 2026 23:57:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>decisions</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Cómo la IA Finalmente Me Ayudó a Lanzar el Blog que Venía Postergando desde 2024</title>
+      <link>https://davidcuy.github.io/blog/ia-me-ayudo-a-lanzar-mi-blog</link>
+      <guid isPermaLink="true">https://davidcuy.github.io/blog/ia-me-ayudo-a-lanzar-mi-blog</guid>
+      <pubDate>Tue, 17 Mar 2026 17:35:00 GMT</pubDate>
+      <author>noreply@davidcuy.dev (David de los Santos Cuy Sanchez)</author>
+      <category>productivity</category>
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>

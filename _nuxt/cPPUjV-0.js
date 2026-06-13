@@ -1,0 +1,1 @@
+import{d as n,i as o,l as t,x as r,s as c,o as l}from"#entry";const p=n({__name:"Badge",props:{category:{}},setup(s){return(a,e)=>(l(),o("span",{class:c(["cbadge",s.category])},[e[0]||(e[0]=t("span",{class:"d"},null,-1)),r(a.$slots,"default")],2))}}),d=Object.assign(p,{__name:"DcBadge"});export{d as _};

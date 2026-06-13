@@ -1,0 +1,1 @@
+import{d as r,a as _,i as c,l,q as p,x as d,m as u,k as m,z as i,o,A as f}from"#entry";const k={class:"page"},A=r({__name:"default",setup(x){const{locale:t}=_();return(a,e)=>{const n=i,s=f;return o(),c("div",k,[e[0]||(e[0]=l("div",{class:"tx-layer","aria-hidden":"true"},null,-1)),(o(),p(n,{key:m(t)})),d(a.$slots,"default"),u(s)])}}});export{A as default};

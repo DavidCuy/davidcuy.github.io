@@ -1,0 +1,1 @@
+import{d as a,i as o,o as s,x as c,s as i}from"#entry";const l=a({__name:"CatChip",props:{active:{type:Boolean}},emits:["click"],setup(n){return(e,t)=>(s(),o("button",{class:i(["cat-chip",{active:n.active}]),onClick:t[0]||(t[0]=p=>e.$emit("click"))},[c(e.$slots,"default")],2))}}),m=Object.assign(l,{__name:"DcCatChip"});export{m as _};

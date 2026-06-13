@@ -1,0 +1,1 @@
+function e(n,t={}){if(!n)return"";if(!n.includes("cdn.sanity.io"))return n;const i=new URLSearchParams;return i.set("w",String(t.w??800)),i.set("q",String(t.q??75)),i.set("fit",t.fit??"max"),i.set("auto","format"),t.h&&i.set("h",String(t.h)),t.fm&&i.set("fm",t.fm),`${n}?${i.toString()}`}export{e as s};
